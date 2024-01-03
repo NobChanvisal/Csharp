@@ -1,0 +1,14 @@
+D:\RUPP\Year3\C#\Show9\Show9\bin\Debug\Show9.exe.config
+D:\RUPP\Year3\C#\Show9\Show9\bin\Debug\Show9.exe
+D:\RUPP\Year3\C#\Show9\Show9\bin\Debug\Show9.pdb
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.csproj.AssemblyReference.cache
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.csproj.SuggestedBindingRedirects.cache
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.Properties.Resources.resources
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.csproj.GenerateResource.cache
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.csproj.CoreCompileInputs.cache
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.exe
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.pdb
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.MainFrm.resources
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.FrmBook.resources
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.MDIParent1.resources
+D:\RUPP\Year3\C#\Show9\Show9\obj\Debug\Show9.FrmBorrow.resources

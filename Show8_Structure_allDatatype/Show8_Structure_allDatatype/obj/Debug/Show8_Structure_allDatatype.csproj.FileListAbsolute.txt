@@ -1,0 +1,11 @@
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\bin\Debug\Show8_Structure_allDatatype.exe.config
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\bin\Debug\Show8_Structure_allDatatype.exe
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\bin\Debug\Show8_Structure_allDatatype.pdb
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\obj\Debug\Show8_Structure_allDatatype.csproj.AssemblyReference.cache
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\obj\Debug\Show8_Structure_allDatatype.csproj.SuggestedBindingRedirects.cache
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\obj\Debug\Show8_Structure_allDatatype.Form1.resources
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\obj\Debug\Show8_Structure_allDatatype.Properties.Resources.resources
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\obj\Debug\Show8_Structure_allDatatype.csproj.GenerateResource.cache
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\obj\Debug\Show8_Structure_allDatatype.csproj.CoreCompileInputs.cache
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\obj\Debug\Show8_Structure_allDatatype.exe
+D:\RUPP\Year3\C#Udemy\Show8_Structure_allDatatype\Show8_Structure_allDatatype\obj\Debug\Show8_Structure_allDatatype.pdb
